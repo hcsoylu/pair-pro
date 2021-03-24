@@ -6,7 +6,7 @@ import WarningSign from "./components/Alertcomp";
 function App() {
   return (
     <div>
-      <WarningSign message="mihai" />
+      <WarningSign message="Alert on a loot(not good)" />
     </div>
   );
 }
